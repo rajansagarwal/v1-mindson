@@ -14,7 +14,7 @@ class Hero extends Component {
 		
 						</div></div>
 		)	
-	}
+	} 
 }
 
 export default  Hero;
