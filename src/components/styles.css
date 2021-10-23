@@ -1,0 +1,24 @@
+
+
+
+.sticky-box {
+  position: sticky;
+  overflow: hidden;
+}
+
+.transform-box {
+  display: flex;
+  will-change: transform;
+}
+
+.box {
+  flex-shrink: 0;
+}
+
+.container {
+	padding-bottom: -200px;
+}
+
+.spanlink {
+	color: rgb(39, 39, 39);
+}
