@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Container, Row, Col } from 'react-grid-system';
 
 class Hero extends Component {
 	render() {
@@ -17,7 +18,7 @@ class Hero extends Component {
 			
 			<div className="navbutton">
 			<a href="">Hub</a> 
-			</div><br/><br/>
+			</div>
 			</div></div></section>
 					<section className="main">
 					{/*<h2 style={{fontWeight: 'bold'}}>Minds On <a href="https://heyrajan.com"></a></h2>*/}
@@ -33,10 +34,7 @@ class Hero extends Component {
 			
 			<div className="navbutton">
 			<a href="">About</a> 
-			</div><br/><br/>
-			</div>
-			<h3 className="title">About</h3>
-			In our polarized world, stress is omnipresent—and yet finding solutions is more difficult than ever. <br/><br/>We are a group of teens that aim to redefine the help you get for mental health through a dynamic approach of <a href="https://heyrajan.com">community engagement</a> and <a href="https://heyrajan.com">centralization.</a></h4>
+			</div></div></h4>
 			</section>
 		
 						</div></div>
