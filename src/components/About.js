@@ -47,7 +47,7 @@ class About extends Component {
 						<div className="card"><h4 className="special">AMAs.</h4></div><br/>
 			</Col>
 			<Col sm={6}>
-					<div className="card"><h4 className="special"></h4></div>
+					<div className="card"><h4 className="special">words</h4></div>
 			</Col>
 					</Row>
 			<br/>
