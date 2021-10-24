@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'react-grid-system';
-import Scroll from './Scroll';
 
 class About extends Component {
 	render() {

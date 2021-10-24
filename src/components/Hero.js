@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Container, Row, Col } from 'react-grid-system';
 
 class Hero extends Component {
 	render() {
@@ -10,14 +9,14 @@ class Hero extends Component {
 					<section className="bigbackground"><div className="centred"><h1 className="normal">We are Minds On</h1><div className="horizontal desktop">
 
 			<div className="navbutton">
-			<a href="">Recent</a> 
+			<a href="https://google.com">Recent</a> 
 			</div>
 			<div className="navbutton">
-			<a href="">Initiatives</a> 
+			<a href="https://google.com">Initiatives</a> 
 			</div>
 			
 			<div className="navbutton">
-			<a href="">Hub</a> 
+			<a href="https://google.com">Hub</a> 
 			</div>
 			</div></div></section>
 					<section className="main">
@@ -26,14 +25,14 @@ class Hero extends Component {
 			<div className="horizontal mobile">
 
 			<div className="navbutton">
-			<a href="">About</a> 
+			<a href="https://google.com">About</a> 
 			</div>
 			<div className="navbutton">
-			<a href="">About</a> 
+			<a href="https://google.com">About</a> 
 			</div>
 			
 			<div className="navbutton">
-			<a href="">About</a> 
+			<a href="https://google.com">About</a> 
 			</div></div></h4>
 			</section>
 		
