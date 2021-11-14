@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Hero extends Component {
 	render() {
 		return (
-			<div>
+			<main>
 
 				
 					<section className="bigbackground"><div className="centred"><h1 className="normal">We are Minds On</h1><div className="horizontal desktop">
@@ -36,7 +36,7 @@ class Hero extends Component {
 			</div></div></h4>
 			</section>
 		
-						</div>
+						</main>
 		)	
 	} 
 }
