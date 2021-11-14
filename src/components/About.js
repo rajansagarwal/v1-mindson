@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-grid-system';
 class About extends Component {
 	render() {
 		return (
-			
+			<div>
 			<section id="about" className="left">	<div className="break"/>		
 			<Container>
 			<Row>
@@ -51,7 +51,7 @@ class About extends Component {
 			</Col>
 					</Row>
 			<br/>
-			</Container></section>
+			</Container></section></div>
 		)	
 	}
 }

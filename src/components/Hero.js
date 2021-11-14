@@ -5,7 +5,7 @@ class Hero extends Component {
 		return (
 			<div>
 
-					<div className="header"><div className="break"/>
+				
 					<section className="bigbackground"><div className="centred"><h1 className="normal">We are Minds On</h1><div className="horizontal desktop">
 
 			<div className="navbutton">
@@ -36,7 +36,7 @@ class Hero extends Component {
 			</div></div></h4>
 			</section>
 		
-						</div></div>
+						</div>
 		)	
 	} 
 }
